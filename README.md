@@ -1,3 +1,4 @@
-# build-a-cpu
- 使用logisim搭建mips cpu
+# logisim_mips_cpu
+使用logisim搭建mips cpu
 完成部分源码均已上传，欢迎star关注后续更新。
+本项目的来源是华中科技大学计算机组成原理课设，最终的成品是搭建好的单周期mips cpu
